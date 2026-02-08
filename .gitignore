@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test/cache
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Local artifacts
+artifacts/exports/
+artifacts/logs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
